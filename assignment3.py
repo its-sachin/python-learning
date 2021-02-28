@@ -1,0 +1,7 @@
+name = input('Please write your name : ')
+character = input ("Please type any alphabet : ")
+upper = character.upper()
+lower = character.lower()
+print(f"Your name has {len(name)} alphabets")
+count = int(name.count(upper)) + int(name.count(lower))
+print(f"Your name has {character} {count} times")

@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+Sachin
+</title>
+</head>
+<body>
+This webpage is desighned for python practice only.
+<a href = "wwww.google.com"> <a href = "wwww.facebook.com">
+<a href = "wwww.yahoo.com">
+<a href = "wwww.youtube.com">
+<a href = "wwww.wikipidea.com">
+<a href = "wwww.quora.com">
+</body>
+</html>
+
